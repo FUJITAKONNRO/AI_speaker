@@ -1,0 +1,2 @@
+# AI_speaker
+AIのリアルタイム返答とVOICEVOXの音声合成を組み合わせる
