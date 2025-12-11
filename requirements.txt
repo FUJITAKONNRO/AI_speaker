@@ -1,0 +1,22 @@
+#before running these commands, create and activate a virtual environment
+#python -m venv venv39
+#$ source venv39/Scripts/activate
+
+websockets
+aiohttp
+
+
+pyaudio
+
+
+numpy
+soundfile
+
+
+asyncio
+aioconsole
+
+loguru
+
+pydantic
+httpx
